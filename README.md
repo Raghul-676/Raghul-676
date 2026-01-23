@@ -101,8 +101,9 @@ Full-stack weather application with intelligent UI features.
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=raghul676&theme=light" />
+  <img src="https://leetcard.jacoblin.cool/raghul676?theme=dark&font=Karma" />
 </p>
+
 
 
 ---
