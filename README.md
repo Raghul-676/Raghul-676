@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi, I'm Raghul 👋  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Student+%7C+Backend+%7C+ML+Enthusiast;FastAPI+%7C+Flask+%7C+LLMs;Always+Learning%2C+Always+Building&center=true&width=600&height=45">
+</p>
 
-<!--
-**Raghul-676/Raghul-676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a B.Tech **Information Technology** student with a strong interest in **Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
 
-Here are some ideas to get you started:
+- 🔍 Strengthening problem-solving skills using **DSA (C++ & Python)**
+- 🛠️ Building scalable backend systems using **Flask, FastAPI, Django**
+- 🤖 Working on **ML, RAG-based LLM applications**
+- 📊 Hands-on experience with real datasets and APIs
+- 🎯 Actively seeking **internship opportunities**
+- 💡 Consistent learner with a project-first mindset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python  
+- C++  
+- Java  
+- JavaScript  
+
+### 🌐 Backend & Full-Stack
+- Flask  
+- FastAPI  
+- Django  
+- Node.js  
+- React  
+
+### 🧠 AI / Machine Learning
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- SentenceTransformers  
+- RAG (Retrieval-Augmented Generation)
+
+### 🗄️ Databases
+- MongoDB  
+- MySQL  
+- SQLite  
+
+### 🧰 Tools & Others
+- Git & GitHub  
+- Docker  
+- Hugging Face Spaces  
+- REST APIs  
+
+---
+
+## 💼 Projects
+
+### 🔍 Insurance Query Chatbot (LLM + RAG)
+AI-powered chatbot that answers insurance-related questions from uploaded documents.
+
+- Document processing (PDF, DOCX, EML)
+- Vector search using ChromaDB & embeddings
+- LLaMA-3 via Groq API
+- Structured JSON responses with explanations
+- Deployed on Hugging Face Spaces
+
+---
+
+### ❤️ Heart Disease Prediction System
+Machine learning web application for early heart disease risk prediction.
+
+- Logistic Regression model
+- Flask backend with trained `model.pkl`
+- Multi-step HTML forms with validation
+- User/Admin data handling
+- Clean UI with CSS & JavaScript
+
+---
+
+### 🌦️ Smart Weather Dashboard
+Full-stack weather application with intelligent UI features.
+
+- City & geolocation-based weather search
+- 7-day forecast and calendar-based view
+- Local news integration
+- Dark/Light mode
+- Flask backend + modern frontend design
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+
+---
+
+⭐ *Open to internships, collaborations, and learning opportunities.*
