@@ -1,8 +1,9 @@
 # Hi, I'm Raghul 👋  
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Student+%7C+Backend+%7C+ML+Enthusiast;FastAPI+%7C+Flask+%7C+LLMs;Always+Learning%2C+Always+Building&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+Build.+I+Break.+I+Learn.;Code+with+Purpose.;Always+Improving.&center=true&width=480&height=40">
 </p>
+
 
 ## 🧑‍💻 About Me
 I'm a B.Tech **Information Technology** student with a strong interest in **Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
@@ -88,15 +89,15 @@ Full-stack weather application with intelligent UI features.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghul-676&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌐 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 📧 Email: raghulsekar676@gmail.com  or raghul.s2024it@sece.ac.in
+- 💼 LinkedIn: www.linkedin.com/in/raghul-sekar-8956a3333 
+- 🌐 GitHub: https://github.com/Raghul-676  
 
 ---
 
