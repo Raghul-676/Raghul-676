@@ -6,7 +6,7 @@
 
 
 ## 🧑‍💻 About Me
-I'm a B.Tech **Information Technology** student with a strong interest in **Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
+I'm a B.Tech **Information Technology** student with a strong interest in **Frontend and Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
 
 - 🔍 Strengthening problem-solving skills using **DSA (C++ & Python)**
 - 🛠️ Building scalable backend systems using **Flask, FastAPI, Django**
@@ -20,7 +20,8 @@ I'm a B.Tech **Information Technology** student with a strong interest in **Back
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Python  
+- Python
+- C
 - C++  
 - Java  
 - JavaScript  
@@ -30,13 +31,15 @@ I'm a B.Tech **Information Technology** student with a strong interest in **Back
 - FastAPI  
 - Django  
 - Node.js  
-- React  
+- React
+- Html & CSS
 
 ### 🧠 AI / Machine Learning
 - Scikit-learn  
 - Pandas  
 - NumPy  
-- SentenceTransformers  
+- SentenceTransformers
+- Sentiment Analysis
 - RAG (Retrieval-Augmented Generation)
 
 ### 🗄️ Databases
@@ -96,10 +99,11 @@ Full-stack weather application with intelligent UI features.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghul-676&show_icons=true&theme=default" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=raghul676&theme=light" />
 </p>
+
 
 ---
 
