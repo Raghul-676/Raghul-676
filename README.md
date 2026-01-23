@@ -54,6 +54,15 @@ I'm a B.Tech **Information Technology** student with a strong interest in **Back
 
 ## 💼 Projects
 
+### 🌱 Agro Connect
+AI-driven full-stack platform designed to empower farmers with data-backed decision making.
+
+- Crop yield prediction using machine learning models  
+- Soil analysis insights for better crop planning  
+- Real-time weather analytics integration  
+- Interactive dashboards for clear data visualization  
+- Flask-based backend with MongoDB for secure data storage and access
+
 ### 🔍 Insurance Query Chatbot (LLM + RAG)
 AI-powered chatbot that answers insurance-related questions from uploaded documents.
 
