@@ -111,7 +111,7 @@ Full-stack weather application with intelligent UI features.
 ## 📫 Let's Connect
 - 📧 Email: raghulsekar676@gmail.com  or raghul.s2024it@sece.ac.in
 - 💼 LinkedIn: www.linkedin.com/in/raghul-sekar-8956a3333 
-- 🌐 GitHub: https://github.com/Raghul-676  
+
 
 ---
 
