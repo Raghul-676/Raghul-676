@@ -6,7 +6,7 @@
 
 
 ## 🧑‍💻 About Me
-I'm a https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip **Information Technology** student with a strong interest in **Frontend and Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
+I'm a **Information Technology** student with a strong interest in **Frontend and Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
 
 - 🔍 Strengthening problem-solving skills using **DSA (C++ & Python)**
 - 🛠️ Building scalable backend systems using **Flask, FastAPI, Django**
