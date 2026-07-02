@@ -1,318 +1,213 @@
-# <h1 align="center">Hi 👋, I'm Raghul Sekar</h1>
+<div align="center">
 
-<h3 align="center">
-Information Technology Student • AI/ML Developer • Full Stack Engineer
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raghul+Sekar+%F0%9F%91%8B;AI%2FML+Engineer;RAG+%26+LLM+Pipeline+Builder;Full+Stack+Developer" alt="Typing SVG" />
 
-<p align="center">
-Building AI-powered products that solve real-world problems.
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Information%20Technology-Student-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20LLM%2FRAG-4F46E5?style=for-the-badge" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-🎓 Information Technology Student passionate about Artificial Intelligence and Software Engineering.
+```yaml
+name: Raghul Sekar
+role: AI/ML Engineer • Full Stack Developer
+education: B.Tech Information Technology, Sri Eshwar College of Engineering
+location: Tamil Nadu, India
+focus:
+  - Computer Vision
+  - LLM / RAG Pipelines
+  - FastAPI Backend Systems
+  - Interactive Frontend Engineering (React, Three.js)
+currently_exploring:
+  - AI Agents & LangGraph
+  - Model Context Protocol (MCP)
+  - Distributed Systems & Cloud Deployment
+freelance: Web development for local businesses & educational institutions
+```
 
-I enjoy building scalable applications that combine modern backend development with Machine Learning and Large Language Models.
+I build applications that combine **machine learning** with **production-grade backend and frontend engineering** — from computer vision pipelines to retrieval-augmented AI assistants to visually ambitious web experiences.
 
-Currently focusing on:
+<br/>
 
-- 🤖 Large Language Models (LLMs)
-- 📄 RAG & Document Intelligence
-- 🧠 Machine Learning
-- ⚡ FastAPI & Flask Backend Development
-- 🌐 React Frontend Development
-- ☁️ Docker & Cloud Deployment
-- 📊 Data Structures & Algorithms (C++)
+## 🛠️ Tech Stack
 
----
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,java,js,c" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,threejs,html,css,vite,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postman" />
+
+**AI / Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/-Transformers-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/-ChromaDB-6E56CF?style=flat-square" />
+<img src="https://img.shields.io/badge/-FAISS-00758F?style=flat-square" />
+<img src="https://img.shields.io/badge/-Groq%20API-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square" />
+
+**Databases & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,docker,vscode,linux" />
+
+</div>
+
+<br/>
 
 ## 🔥 Current Focus
 
-✔ Advanced RAG Systems
+<table align="center">
+<tr>
+<td align="center" width="200">🤖<br/><b>Advanced RAG Systems</b></td>
+<td align="center" width="200">🧠<br/><b>AI Agents</b></td>
+<td align="center" width="200">⚡<br/><b>Backend Engineering</b></td>
+<td align="center" width="200">🌐<br/><b>Full Stack Development</b></td>
+</tr>
+</table>
 
-✔ Multi-document AI Assistants
+<br/>
 
-✔ AI Agents
+## 💼 Featured Projects
 
-✔ Retrieval Pipelines
+<table>
+<tr>
+<td width="50%" valign="top">
 
-✔ Backend Engineering
+### 🛡️ ShieldVision Pro
+Computer vision system built on **YOLOv8** for real-time object detection and monitoring.
 
-✔ Full Stack Development
+`YOLOv8` `Computer Vision` `Python` `OpenCV`
 
-✔ Machine Learning
+</td>
+<td width="50%" valign="top">
 
-✔ System Design
+### 📄 Insurance Policy Intelligence
+Enterprise-grade RAG system built for the **Bajaj Finserv HackRx** challenge — parses policy documents and answers natural-language questions with explainable, clause-level retrieval.
 
----
+`RAG` `ChromaDB` `Groq Llama-3` `FastAPI`
 
-# 🛠 Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Languages
+### 🎙️ Agentic AI Interview Prep Assistant
+Full-stack interview preparation platform powered by a chain of specialized LLM agents.
 
-<p>
-Python • C++ • Java • JavaScript • C
-</p>
+`FastAPI` `Streamlit` `React` `Groq API` `Multi-Agent`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Frontend
+### 🌾 Agro Connect
+AI-powered agriculture platform helping farmers with crop recommendations and yield prediction.
 
-React
+`Flask` `MongoDB` `ML` `Crop Prediction`
 
-HTML5
+</td>
+</tr>
+</table>
 
-CSS3
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br/>
 
-JavaScript
+**🧳 Smart Travel Planner** — Multi-city itinerary planning with budget estimation and shareable calendars, built on relational database design.
 
-Responsive UI
+**❤️ Heart Disease Prediction** — Logistic regression-based risk prediction app with authentication and an admin dashboard.
 
----
+**🌦️ Smart Weather Dashboard** — Geolocation-based forecasting dashboard with news integration and dark mode.
 
-## Backend
+</details>
 
-FastAPI
+<br/>
 
-Flask
+## 📚 Currently Learning
 
-Django
+<div align="center">
 
-REST APIs
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-Authentication
+</div>
 
----
+<br/>
 
-## AI / Machine Learning
+## 🏆 Achievements
 
-Scikit-Learn
+- 🏅 Selected for **Amazon ML Summer School 2026** Online Assessment
+- 🏅 Built and deployed multiple production-style LLM/RAG applications
+- 🏅 Deployed AI applications on **HuggingFace Spaces**
+- 🏅 Active problem solver on **LeetCode**
 
-Pandas
+<br/>
 
-NumPy
+## 📈 GitHub Stats
 
-Sentence Transformers
+<div align="center">
 
-Transformers
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-HuggingFace
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-RAG
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-Vector Databases
+</div>
 
-Prompt Engineering
+<br/>
 
-LLMs
+## 🤝 Let's Connect
 
-Document Intelligence
+<div align="center">
 
-Embeddings
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://YOUR_PORTFOLIO_URL.com">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-ChromaDB
+</div>
 
-FAISS
+<br/>
 
-Groq API
+<div align="center">
 
----
+> *"Build. Break. Learn. Repeat."*
 
-## Databases
+⭐ **If you like my work, consider starring my repositories!**
 
-MongoDB
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-MySQL
-
-SQLite
-
----
-
-## Dev Tools
-
-Git
-
-GitHub
-
-Docker
-
-Postman
-
-VS Code
-
-HuggingFace Spaces
-
-Gradio
-
-Linux
-
----
-
-# 💼 Featured Projects
-
-## 🤖 Intelligent Insurance Document QA System
-
-An enterprise-grade Retrieval-Augmented Generation system capable of understanding insurance policies and answering natural language questions.
-
-### Features
-
-- Multi-document support
-- PDF
-- DOCX
-- Email (.eml)
-- Vector Search
-- ChromaDB
-- Sentence Embeddings
-- Groq Llama-3
-- Explainable JSON outputs
-- Clause Retrieval
-- Intelligent Context Ranking
-
----
-
-## 🌾 Agro Connect
-
-AI-powered agriculture platform helping farmers make informed decisions.
-
-### Features
-
-- Crop Recommendation
-- Crop Yield Prediction
-- Soil Insights
-- Weather Analytics
-- Dashboard
-- MongoDB
-- Flask Backend
-
----
-
-## 🧳 Smart Travel Planner
-
-Complete travel planning platform with itinerary generation and budgeting.
-
-### Features
-
-- Multi-city planning
-- Activity management
-- Budget estimation
-- Calendar visualization
-- Shareable itineraries
-- Relational Database Design
-
----
-
-## ❤️ Heart Disease Prediction
-
-Machine Learning web application for predicting heart disease risk.
-
-### Features
-
-- Logistic Regression
-- Data Preprocessing
-- Flask
-- Authentication
-- Admin Dashboard
-- Responsive UI
-
----
-
-## 🌦 Smart Weather Dashboard
-
-Modern weather platform with intelligent visualization.
-
-### Features
-
-- Geolocation Search
-- Weather Forecast
-- Interactive Dashboard
-- News Integration
-- Dark Mode
-
----
-
-# 📚 Currently Learning
-
-- Advanced Machine Learning
-
-- Deep Learning
-
-- AI Agents
-
-- LangGraph
-
-- MCP
-
-- Distributed Systems
-
-- AWS
-
-- Kubernetes
-
----
-
-# 🏆 Achievements
-
-🏅 Selected for Amazon ML Summer School 2026 Online Assessment
-
-🏅 Built multiple AI applications using LLMs
-
-🏅 Deployed AI applications on HuggingFace Spaces
-
-🏅 Active LeetCode Problem Solver
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-📧 Email:
-your_email@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yourprofile
-
-🌐 Portfolio:
-https://yourportfolio.com
-
----
-
-# 💡 Quote
-
-> "Build. Break. Learn. Repeat."
-
----
-
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+</div>
