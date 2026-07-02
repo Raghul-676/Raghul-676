@@ -155,7 +155,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/raghul676?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/raghul676?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Contest Rating" />
 
 </div>
 
